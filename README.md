@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I am deeply passionate about bridging biological d
 ### 🌐 Connect with Me
 - 💼 **LinkedIn:** [Nishita Puri](https://linkedin.com)
 
-*"Driven by curiosity, fueled by data, aiming for Oxbridge PhD."*
+*"Driven by curiosity, fueled by data, aiming for PhD."*
 
 
 <!--
