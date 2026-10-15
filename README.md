@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I am deeply passionate about bridging biological d
 - 🏅 **Recognition:** Selected for the prestigious **INSPIRE Award** at the district level for early scientific temperament.
 - 🎓 **Education:** Currently pursuing **B.Sc. (Chemistry, Botany, Zoology)**, maintaining a strong grasp of molecular genetics and evolutionary biology.
 - 🔬 **Research Interests:** Fascinated by the DNA repair mechanisms of **Antarctic extremophiles**, Quantum Biology, and applying AI/ML to revolutionize cancer & radiation therapies.
-- 💻 **Tech Journey:** Proactively learning **Python & Data Analytics** independently to step into the world of Big Data in Life Sciences.
+- 💻 **Tech Journey:** Proactively learning **Python & Data Analytics** independently to step into the world of Big Data in Life Sciences. Passionate towards bio entrepreneurship.
 
 ---
 
