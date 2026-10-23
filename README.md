@@ -29,6 +29,7 @@ Welcome to my GitHub profile! I am deeply passionate about bridging biological d
 ### 🌐 Connect with Me
 - 💼 **LinkedIn:** [Nishita Puri](https://linkedin.com)
 - 📩 Email: purinishita807@gmail.com
+
 *"Driven by curiosity, fueled by data, aiming for PhD."*
 
 
